@@ -22,12 +22,15 @@ Ulster University, London (Expected 2027)
 
 ### Bank-software
 This bank software is built in a c programming language.
+**[Link](https://github.com/priyanshuTh/Bank-software)**
 
-### Weatherly
+### Weatherly 
 Weatherly is a modern, responsive weather web‑app that delivers real‑time forecasts, interactive maps, and personalised insights — all wrapped in an elegant UI that adapts to season and theme.
+**[Link](https://github.com/priyanshuTh/Weatherly)**
 
 ### WeatherHub
 Global Weather Dashboard for real‑time conditions and 5‑day forecasts across the world.
+**[Link](https://github.com/priyanshuTh/WeatherHub)**
 
 ## 📫 Contact Me
 
