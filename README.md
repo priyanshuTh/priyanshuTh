@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I’m Priyanshu Thakur 👋
 
-<!--
-**priyanshuTh/priyanshuTh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyanshu%20Thakur-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priyanshu-thakur-595669291/)
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m an enthusiastic and quick-learning software engineer currently interning at Avalon Information Systems, with a strong foundation in Python and C++ for data structures and algorithms. I am pursuing my Bachelor of Technology in Computer Science and Engineering at Bennett University in Noida, India.
+
+## 🛠️ Skills
+
+- **Programming Languages:** Python • C++
+- **Core Competencies:** Data Structures & Algorithms • Problem Solving
+- **Web Development:** HTML • CSS • JavaScript
+- **Tools & Technologies:** Git • GitHub • VS Code • Pycharm
+
+## 🎓 Education
+
+**Computing System**  
+Ulster University, London (Expected 2027)
+
+## 🔭 Projects
+
+### Bank-software
+This bank software is built in a c programming language.
+
+### Weatherly
+Weatherly is a modern, responsive weather web‑app that delivers real‑time forecasts, interactive maps, and personalised insights — all wrapped in an elegant UI that adapts to season and theme.
+
+### WeatherHub
+Global Weather Dashboard for real‑time conditions and 5‑day forecasts across the world.
+
+## 📫 Contact Me
+
+- **Email:** priyanshuthakur922@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/priyanshu-thakur-595669291/
+- **GitHub:** https://github.com/priyanshuTh
+
+---
+
+_"Strive not to be a success, but rather to be of value." – Albert Einstein_
