@@ -28,9 +28,9 @@ This bank software is built in a c programming language.
 Weatherly is a modern, responsive weather web‑app that delivers real‑time forecasts, interactive maps, and personalised insights — all wrapped in an elegant UI that adapts to season and theme.
 **[Link](https://github.com/priyanshuTh/Weatherly)**
 
-### WeatherHub
+### WeatherDashboard
 Global Weather Dashboard for real‑time conditions and 5‑day forecasts across the world.
-**[Link](https://github.com/priyanshuTh/WeatherHub)**
+**[Link](https://github.com/priyanshuTh/WeatherDashboard)**
 
 ## 📫 Contact Me
 
