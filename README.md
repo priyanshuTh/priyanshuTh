@@ -31,7 +31,7 @@ Weatherly is a modern, responsive weather web‑app that delivers real‑time fo
 
 ### WeatherDashboard
 Global Weather Dashboard for real‑time conditions and 5‑day forecasts across the world.
-## **REPO:**[Link](https://github.com/priyanshuTh/WeatherDashboard)**
+## **REPO:[Link](https://github.com/priyanshuTh/WeatherDashboard)**
 ## 📺 Demo(https://priyanshuth.github.io/WeatherDashboard/)
 
 ### SQl_Visiual
