@@ -8,10 +8,11 @@ I’m an enthusiastic and quick-learning software engineer currently interning a
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Python • C++
+- **Programming Languages:** Python • C++ • MySQL
 - **Core Competencies:** Data Structures & Algorithms • Problem Solving
 - **Web Development:** HTML • CSS • JavaScript
-- **Tools & Technologies:** Git • GitHub • VS Code • Pycharm
+- **Libraries:** Pandas • NumPY • Seaborn • Matplotlib
+- **Tools & Technologies:** Git • GitHub • VS Code  • Pycharm • Jupyter Notebook
 
 ## 🔭 Projects
 
