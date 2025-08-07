@@ -26,17 +26,17 @@ This bank software is built in a c programming language.
 
 ### Weatherly 
 Weatherly is a modern, responsive weather web‑app that delivers real‑time forecasts, interactive maps, and personalised insights — all wrapped in an elegant UI that adapts to season and theme.
-## [**Repo:**]**[Link](https://github.com/priyanshuTh/Weatherly)**
+## **REPO:[Link](https://github.com/priyanshuTh/Weatherly)**
 ## 📺 Demo(https://priyanshuth.github.io/Weatherly/)
 
 ### WeatherDashboard
 Global Weather Dashboard for real‑time conditions and 5‑day forecasts across the world.
-## [**Repo:**]**[Link](https://github.com/priyanshuTh/WeatherDashboard)**
+## **REPO:**[Link](https://github.com/priyanshuTh/WeatherDashboard)**
 ## 📺 Demo(https://priyanshuth.github.io/WeatherDashboard/)
 
 ### SQl_Visiual
 A beginner-friendly project that introduces the fundamentals of SQL and demonstrates how to visualize SQL query results using Python and Jupyter Notebooks.
-REPO: **[Link](https://github.com/priyanshuTh/SQL_Visiual.git)**
+# **REPO:[Link](https://github.com/priyanshuTh/SQL_Visiual.git)**
 
 ## 📫 Contact Me
 
