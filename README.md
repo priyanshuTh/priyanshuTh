@@ -13,11 +13,6 @@ I’m an enthusiastic and quick-learning software engineer currently interning a
 - **Web Development:** HTML • CSS • JavaScript
 - **Tools & Technologies:** Git • GitHub • VS Code • Pycharm
 
-## 🎓 Education
-
-**Computing System**  
-Ulster University, London (Expected 2027)
-
 ## 🔭 Projects
 
 ### Bank-software
@@ -31,7 +26,7 @@ Weatherly is a modern, responsive weather web‑app that delivers real‑time fo
 
 ### WeatherDashboard
 Global Weather Dashboard for real‑time conditions and 5‑day forecasts across the world.
-# **[Link](https://github.com/priyanshuTh/WeatherDashboard)**
+- **[Link](https://github.com/priyanshuTh/WeatherDashboard)**
 - 📺 Demo(https://priyanshuth.github.io/WeatherDashboard/)
 
 ### SQl_Visiual
