@@ -4,12 +4,11 @@
 
 ## 🚀 About Me
 
-I’m an enthusiastic and quick-learning software engineer currently interning at Avalon Information Systems, with a strong foundation in Python and C++ for data structures and algorithms. I am pursuing my Bachelor of Technology in Computer Science and Engineering at Bennett University in Noida, India.
+I’m an enthusiastic and quick-learner currently learning TenseFlow and Pytouch
 
 ## 🛠️ Skills
 
 - **Programming Languages:** Python • C++ • MySQL
-- **Core Competencies:** Data Structures & Algorithms • Problem Solving
 - **Web Development:** HTML • CSS • JavaScript
 - **Libraries:** Pandas • NumPY • Seaborn • Matplotlib
 - **Tools & Technologies:** Git • GitHub • VS Code  • Pycharm • Jupyter Notebook
